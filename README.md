@@ -11,3 +11,10 @@ A Python-based port scanner to identify open ports and their services on a targe
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Requirements
+- Python 3.x
+- tqdm (for progress bar)
+
+## Disclaimer
+Only scan hosts you have explicit permission to scan. Unauthorized port scanning may be illegal.
