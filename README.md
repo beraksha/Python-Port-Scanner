@@ -71,4 +71,4 @@ Only scan hosts you have explicit permission to scan. Unauthorized port scanning
 
 ---
 
-Built by [beraksha](https://github.com/beraksha) as part of a cybersecurity learning journey. Feedback and contributions welcome!
+Built by [beraksha](https://github.com/beraksha) as part of a cybersecurity learning journey. Feedback and contributions welcome! 🎀
